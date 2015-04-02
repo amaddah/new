@@ -6,13 +6,9 @@ int main(int argc, char *argv[], char **arge)
 
 	/* Variables */
 
-
-
 	/* Debut Script */
 
-
 	/* Fin Script */
-
 	return EXIT_SUCCESS;
 }
 
